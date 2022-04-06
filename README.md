@@ -5,8 +5,9 @@ I got this template from https://github.com/minimal-ui-kit/material-kit-react.
 
 ## Setup
 ### Prerequisites
-Download node.js from https://nodejs.org/en/download/?msclkid=11312300b56d11ec868695d535388e34
-Optional: VS Code https://code.visualstudio.com/Download?msclkid=b9d0224cb57111ec955ab846f5db5430. I'd recommend using VS Code because it makes all the git stuff easy to see and visualize.
+Download **node.js** from https://nodejs.org/en/download/?msclkid=11312300b56d11ec868695d535388e34
+
+Optional: **VS Code** https://code.visualstudio.com/Download?msclkid=b9d0224cb57111ec955ab846f5db5430. I'd recommend using VS Code because it makes all the git stuff easy to see and visualize.
 
 ### Clone repository to run locally
 1. Click on the green "Code" button in the top right corner and copy the https link
